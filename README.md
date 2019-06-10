@@ -1,1 +1,1 @@
-# estudo-laravel-rest
+# estudo-laravel-api-rest
